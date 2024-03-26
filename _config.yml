@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rishabh Iyer"
 title_separator          : "-"
 name                     : &name "Rishabh Iyer"
-description              : &description "Postdoc"
+description              : &description "Postdoc at UC Berkeley"
 url                      : https://rishabh246.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rishabh246/rishabh246.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rishabh Iyer"
   avatar           : "ri.jpg"
-  bio              : "Postdoc"
+  bio              : "Postdoc at UC Berkeley"
   location         : "Berkeley, CA"
   employer         :
   pubmed           :
