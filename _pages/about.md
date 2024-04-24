@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher working with [Sylvia Ratnasamy](https://people.eecs.berkeley.edu/~sylvia/) and [Scott Shenker](http://www.icsi.berkeley.edu/icsi/people/shenker) at UC Berkeley. I recently (in February 2024) graduated from EPFL, after completing my PhD under the supervision of [George Candea](http://dslab.epfl.ch/people/candea/) and [Katerina Argyraki](https://people.epfl.ch/katerina.argyraki?lang=en). Prior to joining EPFL, I received a B.Tech degree in Electrical Engineering from IIT Bombay in 2017.
+I am a postdoctoral researcher working with [Sylvia Ratnasamy](https://people.eecs.berkeley.edu/~sylvia/) and [Scott Shenker](http://www.icsi.berkeley.edu/icsi/people/shenker) at UC Berkeley. I recently graduated from EPFL, after completing my PhD under the supervision of [George Candea](http://dslab.epfl.ch/people/candea/) and [Katerina Argyraki](https://people.epfl.ch/katerina.argyraki?lang=en). Prior to joining EPFL, I received a B.Tech degree in Electrical Engineering from IIT Bombay in 2017.
 
 My research interests lie primarily in the fields of Computer Systems, Networking and Architecture and I like to tinker with formal verification tools. My current research is centered around developing techniques that enable developers to reason precisely about the performance behavior of their systems _before_ they are deployed. My [dissertation work](/files/thesis.pdf) introduced the notion of latency interfaces---simple, succinct programs that summarize a system’s latency behavior just
-like semantic interfaces such as code documentation and specifications summarize functionality---and was awarded the 2023 [ACM SIGOPS Dennis M. Ritchie Award](https://www.sigops.org/awards/dmr/) for "the best PhD. Thesis in Computer Systems".
+like semantic interfaces such as code documentation and specifications summarize functionality---and was awarded the [ACM SIGOPS Dennis M. Ritchie Award](https://www.sigops.org/awards/dmr/) and the [Eurosys Roger Needham PhD Award](https://www.eurosys.org/awards/roger-needham-phd-award).
 
-Here is my [CV](/files/cv.pdf) (updated March 2024).
+Here is my [CV](/files/cv.pdf) (updated April 2024).
 
 Publications
 -------
