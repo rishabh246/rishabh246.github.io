@@ -18,11 +18,11 @@ Here is my [CV](/files/cv.pdf) (updated April 2024).
 Publications
 -------
 
-**Automatically Reasoning About How Systems Code Uses the CPU Cache**.  
+**[Automatically Reasoning About How Systems Code Uses the CPU Cache](/files/cfar.pdf)**.  
 _Rishabh Iyer, Katerina Argyraki, George Candea._ <br>
 OSDI 2024 (to appear).
 
-**Performance Interfaces for Hardware Accelerators**.  
+**[Performance Interfaces for Hardware Accelerators](/files/lpn.pdf)**.  
 _Jiacheng Ma, Rishabh Iyer, Sahand Kashani, Mahyar Emami, Thomas Bourgeat, George Candea._<br>
 OSDI 2024 (to appear).
 
