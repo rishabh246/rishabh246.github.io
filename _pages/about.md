@@ -20,11 +20,11 @@ Publications
 
 **[Automatically Reasoning About How Systems Code Uses the CPU Cache](/files/cfar.pdf)**.  
 _Rishabh Iyer, Katerina Argyraki, George Candea._ <br>
-OSDI 2024 (to appear).
+OSDI 2024.
 
 **[Performance Interfaces for Hardware Accelerators](/files/lpn.pdf)**.  
 _Jiacheng Ma, Rishabh Iyer, Sahand Kashani, Mahyar Emami, Thomas Bourgeat, George Candea._<br>
-OSDI 2024 (to appear).
+OSDI 2024.
 
 **[Achieving Microsecond-Scale Tail Latency Efficiently with Approximate Optimal Scheduling](/files/concord.pdf)**.  
 _Rishabh Iyer, Musa Unal, Marios Kogias, George Candea._<br> 
