@@ -18,7 +18,7 @@ Here is my [CV](/files/cv.pdf) (updated Aug 2024).
 Publications
 -------
 
-**KFlex: Fast, Flexible, and Practical Kernel Extensions**.  
+**Fast, Flexible, and Practical Kernel Extensions**.  
 _Kumar Kartikeya Dwivedi, Rishabh Iyer, Sanidhya Kashyap._ <br>
 SOSP 2024 (to appear). <br>
 <span style="color:red">**Also accepted to the Linux Plumbers Conference 2024**</span>.
