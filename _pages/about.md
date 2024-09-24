@@ -11,7 +11,7 @@ redirect_from:
 I am a postdoctoral researcher working with [Sylvia Ratnasamy](https://people.eecs.berkeley.edu/~sylvia/) and [Scott Shenker](http://www.icsi.berkeley.edu/icsi/people/shenker) at UC Berkeley. I completed my PhD at EPFL, under the supervision of [George Candea](http://dslab.epfl.ch/people/candea/) and [Katerina Argyraki](https://people.epfl.ch/katerina.argyraki?lang=en). Prior to joining EPFL, I received a bachelors from IIT Bombay.
 
 I am a computer systems researcher (broadly construed), and most of my work lies at the intersection of systems, networking, hardware and formal verification. My current research focuses on developing techniques that enable developers to reason precisely about the expected performance of their systems _before_ they are deployed. My [dissertation work](/files/thesis.pdf) introduced the notion of latency interfaces---simple, succinct programs that summarize a system’s latency just
-like semantic interfaces such as code documentation and specifications summarize functionality---and was awarded the [ACM SIGOPS Dennis M. Ritchie Award](https://www.sigops.org/awards/dmr/) and the [Eurosys Roger Needham PhD Award](https://www.eurosys.org/awards/roger-needham-phd-award).
+like semantic interfaces such as code documentation and specifications summarize functionality---and was awarded the [ACM SIGOPS Dennis M. Ritchie Award](https://www.sigops.org/awards/dmr/), the [Eurosys Roger Needham PhD Award](https://www.eurosys.org/awards/roger-needham-phd-award), and the [Dimitris N. Chorafas Award](https://www.weizmann.ac.il/feinberg/about/dimitris-n-chorafas-prize/about-foundation-and-prize).
 
 Here is my [CV](/files/cv.pdf) (updated Aug 2024).
 
