@@ -27,12 +27,12 @@ SOSP 2024 (to appear). <br>
 _Rishabh Iyer, Katerina Argyraki, George Candea._ <br>
 OSDI 2024. <br>
 <span style="color:red">**Also accepted to the Linux Plumbers Conference 2024**</span>.<br>
-[[slides]](files/cfar-slides.pptx)
+[[slides]](files/cfar-slides.pptx) [[talk video]](https://www.youtube.com/watch?v=QpgOxTcvCrY)
 
 **[Performance Interfaces for Hardware Accelerators](/files/lpn.pdf)**.  
 _Jiacheng Ma, Rishabh Iyer, Sahand Kashani, Mahyar Emami, Thomas Bourgeat, George Candea._<br>
 OSDI 2024.<br>
-[[slides]](files/lpn-slides.pptx) [[code]](https://github.com/dslab-epfl/lpn)
+[[slides]](files/lpn-slides.pptx) [[code]](https://github.com/dslab-epfl/lpn) [[talk video]](https://www.youtube.com/watch?v=S6BtXr-bFqk)
 
 **[Achieving Microsecond-Scale Tail Latency Efficiently with Approximate Optimal Scheduling](/files/concord.pdf)**.  
 _Rishabh Iyer, Musa Unal, Marios Kogias, George Candea._<br> 
