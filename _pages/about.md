@@ -18,9 +18,9 @@ Here is my [CV](/files/cv.pdf) (updated Aug 2024).
 Publications
 -------
 
-**Fast, Flexible, and Practical Kernel Extensions**.  
+**[Fast, Flexible, and Practical Kernel Extensions](/files/kflex.pdf)**.  
 _Kumar Kartikeya Dwivedi, Rishabh Iyer, Sanidhya Kashyap._ <br>
-SOSP 2024 (to appear). <br>
+SOSP 2024. <br>
 <span style="color:red">**Also accepted to the Linux Plumbers Conference 2024**</span>.
 
 **[Automatically Reasoning About How Systems Code Uses the CPU Cache](/files/cfar.pdf)**.  
