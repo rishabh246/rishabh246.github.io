@@ -37,7 +37,7 @@ OSDI 2024.<br>
 **[Achieving Microsecond-Scale Tail Latency Efficiently with Approximate Optimal Scheduling](/files/concord.pdf)**.  
 _Rishabh Iyer, Musa Unal, Marios Kogias, George Candea._<br> 
 SOSP 2023.<br>
-[[slides]](files/concord-slides.pptx) [[code]](https://github.com/dslab-epfl/concord)
+[[slides]](files/concord-slides.pptx) [[code]](https://github.com/dslab-epfl/concord) [[talk video]](https://www.youtube.com/watch?v=VMSdUr-91_U)
 
 **[The Case for Performance Interfaces for Hardware Accelerators](/files/perf-interf-accel.pdf)**.  
 _Rishabh Iyer, Jiacheng Ma, Katerina Argyraki, George Candea, Sylvia Ratnasamy._ <br>
