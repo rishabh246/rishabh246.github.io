@@ -26,7 +26,7 @@ HotNets 2024. <br>
 _Ziming Mao, Rishabh Iyer, Scott Shenker, Ion Stoica._ <br>
 HotNets 2024. <br>
 
-**[If Layering Is Useful Why Not Sublayering?](/files/sublayering.pdf)**  
+**[If Layering Is Useful, Why Not Sublayering?](/files/sublayering.pdf)**  
 _Rathin Singha, Rishabh Iyer, Charles Liu, Caleb Terrill, Todd Millstein, Scott Shenker, George Varghese._ <br>
 HotNets 2024. <br>
 
