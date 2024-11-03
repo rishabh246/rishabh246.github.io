@@ -15,6 +15,8 @@ like semantic interfaces such as code documentation and specifications summarize
 
 Here is my [CV](/files/cv.pdf) (updated Aug 2024).
 
+<span style="color:red">**I am on the academic job market for 2024–2025. Please reach out if you’re hiring!**</span>
+
 Publications
 -------
 
