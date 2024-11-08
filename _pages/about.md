@@ -36,6 +36,11 @@ _Jiacheng Ma, Rishabh Iyer, Sahand Kashani, Mahyar Emami, Thomas Bourgeat, Georg
 OSDI 2024.<br>
 [[slides]](files/lpn-slides.pptx) [[code]](https://github.com/dslab-epfl/lpn) [[talk video]](https://www.youtube.com/watch?v=S6BtXr-bFqk)
 
+**[Achieving Microsecond-Scale Tail Latency Efficiently with Approximate Optimal Scheduling](/files/concord.pdf)**  
+_Rishabh Iyer, Musa Unal, Marios Kogias, George Candea._<br> 
+SOSP 2023.<br>
+[[slides]](files/concord-slides.pptx) [[code]](https://github.com/dslab-epfl/concord) [[talk video]](https://www.youtube.com/watch?v=VMSdUr-91_U)
+
 **[Performance Interfaces for Network Functions](/files/pix.pdf)**  
 _Rishabh Iyer, Katerina Argyraki, George Candea._ <br> 
 NSDI 2022.  <br>
@@ -60,11 +65,6 @@ HotNets 2024. <br>
 **[If Layering Is Useful, Why Not Sublayering?](/files/sublayering.pdf)**  
 _Rathin Singha, Rishabh Iyer, Charles Liu, Caleb Terrill, Todd Millstein, Scott Shenker, George Varghese._ <br>
 HotNets 2024. <br>
-
-**[Achieving Microsecond-Scale Tail Latency Efficiently with Approximate Optimal Scheduling](/files/concord.pdf)**  
-_Rishabh Iyer, Musa Unal, Marios Kogias, George Candea._<br> 
-SOSP 2023.<br>
-[[slides]](files/concord-slides.pptx) [[code]](https://github.com/dslab-epfl/concord) [[talk video]](https://www.youtube.com/watch?v=VMSdUr-91_U)
 
 **[The Case for Performance Interfaces for Hardware Accelerators](/files/perf-interf-accel.pdf)**  
 _Rishabh Iyer, Jiacheng Ma, Katerina Argyraki, George Candea, Sylvia Ratnasamy._ <br>
