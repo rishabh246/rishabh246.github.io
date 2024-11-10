@@ -23,7 +23,9 @@ Selected Publications
 **[Fast, Flexible, and Practical Kernel Extensions](/files/kflex.pdf)**   
 _Kumar Kartikeya Dwivedi, Rishabh Iyer, Sanidhya Kashyap._ <br>
 SOSP 2024. <br>
-<span style="color:red">**Also accepted to the Linux Plumbers Conference 2024**</span>.
+<span style="color:red">**Also accepted to the Linux Plumbers Conference 2024**</span>. <br>
+[[slides]](files/kflex-slides.pdf) [[code]](https://github.com/rs3lab/KFlex)
+
 
 **[Automatically Reasoning About How Systems Code Uses the CPU Cache](/files/cfar.pdf)**  
 _Rishabh Iyer, Katerina Argyraki, George Candea._ <br>
