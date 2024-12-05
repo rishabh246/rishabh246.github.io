@@ -16,7 +16,10 @@ My [dissertation](/files/thesis.pdf) introduced the notion of **performance inte
 A few of the systems I helped design have also been deployed in production at Meta and Alibaba.
 
 <span style="color:red">**I am on the academic job market for 2024–2025. Here are my application materials:**</span>  <br>
-[[CV]](files/rishabh-cv.pdf) [[Research statement]](files/rishabh-research.pdf) [[Teaching statement]](files/rishabh-teaching.pdf) [[Diversity statement]](files/rishabh-diversity.pdf)
+- [CV](files/rishabh-cv.pdf) 
+- [Research statement](files/rishabh-research.pdf) 
+- [Teaching statement](files/rishabh-teaching.pdf) 
+- [Diversity statement](files/rishabh-diversity.pdf)
 
 Selected Publications
 -------
