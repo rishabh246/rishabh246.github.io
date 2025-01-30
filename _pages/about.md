@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher working with [Sylvia Ratnasamy](https://people.eecs.berkeley.edu/~sylvia/) and [Scott Shenker](http://www.icsi.berkeley.edu/icsi/people/shenker) at UC Berkeley. I completed my PhD at EPFL, under the supervision of [George Candea](http://dslab.epfl.ch/people/candea/) and [Katerina Argyraki](https://people.epfl.ch/katerina.argyraki?lang=en). 
+I am a postdoctoral researcher working with [Sylvia Ratnasamy](https://people.eecs.berkeley.edu/~sylvia/) at UC Berkeley. I completed my PhD at EPFL, under the supervision of [George Candea](http://dslab.epfl.ch/people/candea/) and [Katerina Argyraki](https://people.epfl.ch/katerina.argyraki?lang=en). 
 
 I am a **computer systems** researcher, and my work lies at the intersection of systems, networking, computer architecture, and formal verification.
 My research focuses on developing techniques that enable developers to reason precisely about the expected performance of their systems _before_ they are deployed in production.
