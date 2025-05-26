@@ -8,40 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher working with Sylvia Ratnasamy and Scott Shenker at UC Berkeley. Prior to joining Berkeley, I completed my PhD at EPFL, under the supervision of George Candea and Katerina Argyraki.
+I am an incoming assistant professor of Computer Science at UC Berkeley (starting Fall'25). 
+Prior to joining Berkeley, I completed my PhD at EPFL in Switzerland and my Bachelors degree at IIT Bombay.
 
-I am a **computer systems** researcher, and my work lies at the intersection of systems, networking, computer architecture, and formal verification.
-Most of my research is centered around  developing techniques and tools that enable developers to reason precisely about the expected performance of their systems.
-My [dissertation work](/files/thesis.pdf) introduced the notion of **performance interfaces**---simple, succinct programs that summarize a system's performance just like semantic interfaces such as code documentation and specifications summarize functionality---and was awarded the [ACM SIGOPS Dennis M. Ritchie Award](https://www.sigops.org/awards/dmr/), the [Eurosys Roger Needham PhD Award](https://www.eurosys.org/awards/roger-needham-phd-award), and the [Dimitris N. Chorafas Award](https://www.weizmann.ac.il/feinberg/about/dimitris-n-chorafas-prize/about-foundation-and-prize).
-A few of the systems I helped design have also been deployed in production at Meta and Alibaba.
+I am a **computer systems** researcher, and my research spans systems, networking, computer architecture, and formal verification. 
+Most of my work has centered building systems that are efficient yet easy for engineers to reason about, both in terms of their performance properties and functionality. 
+My [dissertation](/files/thesis.pdf) introduced the notion of **performance interfaces**---simple, succinct interface that enable engineers to reason about a system's expected performance just like semantic interfaces such as code documentation and specifications enable reasoning about functionality---and was awarded the [ACM SIGOPS Dennis M. Ritchie Award](https://www.sigops.org/awards/dmr/), the [Eurosys Roger Needham PhD Award](https://www.eurosys.org/awards/roger-needham-phd-award), and the [Dimitris N. Chorafas Award](https://www.weizmann.ac.il/feinberg/about/dimitris-n-chorafas-prize/about-foundation-and-prize).
+Several of the systems I have helped design are deployed in production at Meta and Alibaba.
 
-
-Selected Publications
--------
-
-**[Automatically Reasoning About How Systems Code Uses the CPU Cache](/files/cfar.pdf)**  
-_Rishabh Iyer, Katerina Argyraki, George Candea._ <br>
-OSDI 2024. <br>
-<span style="color:red">**Also accepted to the Linux Plumbers Conference 2024**</span>.<br>
-[[slides]](files/cfar-slides.pptx) [[talk video]](https://www.youtube.com/watch?v=QpgOxTcvCrY)
-
-**[Performance Interfaces for Hardware Accelerators](/files/lpn.pdf)**  
-_Jiacheng Ma, Rishabh Iyer, Sahand Kashani, Mahyar Emami, Thomas Bourgeat, George Candea._<br>
-OSDI 2024.<br>
-[[slides]](files/lpn-slides.pptx) [[code]](https://github.com/dslab-epfl/lpn) [[talk video]](https://www.youtube.com/watch?v=S6BtXr-bFqk)
-
-**[Fast, Flexible, and Practical Kernel Extensions](/files/kflex.pdf)**   
-_Kumar Kartikeya Dwivedi, Rishabh Iyer, Sanidhya Kashyap._ <br>
-SOSP 2024. <br>
-<span style="color:red">**Also accepted to the Linux Plumbers Conference 2024**</span>. <br>
-[[slides]](files/kflex-slides.pdf) [[code]](https://github.com/rs3lab/KFlex)
-
-**[Performance Interfaces for Network Functions](/files/pix.pdf)**  
-_Rishabh Iyer, Katerina Argyraki, George Candea._ <br> 
-NSDI 2022.  <br>
-[[slides]](files/pix_slides.pdf) [[talk video]](https://www.youtube.com/watch?v=iM3R2Gp0PWo) [[code]](https://github.com/dslab-epfl/pix)
-
-Additional Publications
+Publications
 -------
 
 **[The Case for Validating Inputs in Software-Defined WANs](/files/hodor.pdf)**  
@@ -56,6 +31,23 @@ HotNets 2024. <br>
 _Rathin Singha, Rishabh Iyer, Charles Liu, Caleb Terrill, Todd Millstein, Scott Shenker, George Varghese._ <br>
 HotNets 2024. <br>
 
+**[Fast, Flexible, and Practical Kernel Extensions](/files/kflex.pdf)**   
+_Kumar Kartikeya Dwivedi, Rishabh Iyer, Sanidhya Kashyap._ <br>
+SOSP 2024. <br>
+<span style="color:red">**Also accepted to the Linux Plumbers Conference 2024**</span>. <br>
+[[slides]](files/kflex-slides.pdf) [[code]](https://github.com/rs3lab/KFlex)
+
+**[Automatically Reasoning About How Systems Code Uses the CPU Cache](/files/cfar.pdf)**  
+_Rishabh Iyer, Katerina Argyraki, George Candea._ <br>
+OSDI 2024. <br>
+<span style="color:red">**Also accepted to the Linux Plumbers Conference 2024**</span>.<br>
+[[slides]](files/cfar-slides.pptx) [[talk video]](https://www.youtube.com/watch?v=QpgOxTcvCrY)
+
+**[Performance Interfaces for Hardware Accelerators](/files/lpn.pdf)**  
+_Jiacheng Ma, Rishabh Iyer, Sahand Kashani, Mahyar Emami, Thomas Bourgeat, George Candea._<br>
+OSDI 2024.<br>
+[[slides]](files/lpn-slides.pptx) [[code]](https://github.com/dslab-epfl/lpn) [[talk video]](https://www.youtube.com/watch?v=S6BtXr-bFqk)
+
 **[Achieving Microsecond-Scale Tail Latency Efficiently with Approximate Optimal Scheduling](/files/concord.pdf)**  
 _Rishabh Iyer, Musa Unal, Marios Kogias, George Candea._<br> 
 SOSP 2023.<br>
@@ -65,6 +57,11 @@ SOSP 2023.<br>
 _Rishabh Iyer, Jiacheng Ma, Katerina Argyraki, George Candea, Sylvia Ratnasamy._ <br>
 HotOS 2023. <br>
 [[slides]](files/accel-hotos-slides.pptx)
+
+**[Performance Interfaces for Network Functions](/files/pix.pdf)**  
+_Rishabh Iyer, Katerina Argyraki, George Candea._ <br> 
+NSDI 2022.  <br>
+[[slides]](files/pix_slides.pdf) [[talk video]](https://www.youtube.com/watch?v=iM3R2Gp0PWo) [[code]](https://github.com/dslab-epfl/pix)
 
 **[Bypassing the Load Balancer Without Regrets](/files/crab.pdf)**  
 _Marios Kogias, Rishabh Iyer, Edouard Bugnion._  <br>
