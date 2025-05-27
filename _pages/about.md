@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Rishabh Iyer"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,83 +7,48 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming assistant professor of Computer Science at UC Berkeley (starting Fall'25). 
-Prior to joining Berkeley, I completed my PhD at EPFL in Switzerland and my Bachelors degree at IIT Bombay.
+I am an incoming Assistant Professor in the [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) department at [UC Berkeley](https://berkeley.edu/), starting in July 2025. 
+Prior to joining Berkeley, I completed my PhD at EPFL in Switzerland and my bachelor's degree at IIT Bombay.
 
-I am a **computer systems** researcher, and my research spans systems, networking, computer architecture, and formal verification. 
-Most of my work has centered building systems that are efficient yet easy for engineers to reason about, both in terms of their performance properties and functionality. 
-My [dissertation](/files/thesis.pdf) introduced the notion of **performance interfaces**---simple, succinct interface that enable engineers to reason about a system's expected performance just like semantic interfaces such as code documentation and specifications enable reasoning about functionality---and was awarded the [ACM SIGOPS Dennis M. Ritchie Award](https://www.sigops.org/awards/dmr/), the [Eurosys Roger Needham PhD Award](https://www.eurosys.org/awards/roger-needham-phd-award), and the [Dimitris N. Chorafas Award](https://www.weizmann.ac.il/feinberg/about/dimitris-n-chorafas-prize/about-foundation-and-prize).
-Several of the systems I have helped design are deployed in production at Meta and Alibaba.
+I am a **computer systems** researcher, and my work focuses on developing techniques that
+enable engineers to build systems with **well-understood performance and functionality**. 
+My research draws on insights from a broad set of domains, including operating systems, networking, computer architecture, and formal methods. 
+My work has received several awards, including the [ACM SIGOPS Dennis M. Ritchie Award](https://www.sigops.org/awards/dmr/), the [Eurosys Roger Needham PhD Award](https://www.eurosys.org/awards/roger-needham-phd-award), and the [Dimitris N. Chorafas Award](https://www.weizmann.ac.il/feinberg/about/dimitris-n-chorafas-prize/about-foundation-and-prize), and several of the systems I have helped design have been deployed in production at companies such as Meta and Alibaba.
 
-Publications
--------
 
-**[The Case for Validating Inputs in Software-Defined WANs](/files/hodor.pdf)**  
-_Alexander Krentsel, Rishabh Iyer, Isaac Keslassy, Sylvia Ratnasamy, Anees Shaikh, Rob Shakir._ <br>
-HotNets 2024. <br>
+<div style="border-radius: 12px; padding: 0.75em; margin-top: 0.5em; margin-bottom: 0.5em; background: #FFF5EA; border: 1px solid black; font-size: 0.875em;">
+  <strong>I am always interested in finding talented and ambitious students to join my group!</strong> For students already at Berkeley, the best way to contact me is via <a href="mailto:rishabh.iyer@berkeley.edu">email</a>. For students seeking to join Berkeley, please refer to the <a href="https://eecs.berkeley.edu/academics/graduate/research-programs/admissions/">Berkeley EECS Graduate Admissions page</a> and mention my name on your application.
+</div>
 
-**[Revisiting Cache Freshness for Emerging Real-Time Applications](/files/freshness.pdf)**  
-_Ziming Mao, Rishabh Iyer, Scott Shenker, Ion Stoica._ <br>
-HotNets 2024. <br>
+Active Research Directions 
+----
+Below are a few of my ongoing projects. A full list of my publications can be found [here](/publications).
 
-**[If Layering Is Useful, Why Not Sublayering?](/files/sublayering.pdf)**  
-_Rathin Singha, Rishabh Iyer, Charles Liu, Caleb Terrill, Todd Millstein, Scott Shenker, George Varghese._ <br>
-HotNets 2024. <br>
+<div style="border-radius: 12px; padding: 0.75em; margin-top: 0em; margin-bottom: 0.5em; background: #F2FAFF; border: 1px solid black; font-size: 0.85em;">
+    <strong> <a href="{{ '/perf-interfaces/' | relative_url }}"> Performance Interfaces for Systems SW & HW:</a></strong>
+Semantic interfaces---such as code documentation and specifications---provide simple, abstract descriptions of a system’s functionality, enabling engineers to reason about and use the system’s functionality without having to understand the implementation. In contrast, there exist no equivalent interfaces for system performance, despite performance having become a first-class citizen in system design. <br><br>
 
-**[Fast, Flexible, and Practical Kernel Extensions](/files/kflex.pdf)**   
-_Kumar Kartikeya Dwivedi, Rishabh Iyer, Sanidhya Kashyap._ <br>
-SOSP 2024. <br>
-<span style="color:red">**Also accepted to the Linux Plumbers Conference 2024**</span>. <br>
-[[slides]](files/kflex-slides.pdf) [[code]](https://github.com/rs3lab/KFlex)
+The goal of this project is to develop techniques that enable summarizing system performance in succinct yet precise interfaces, allowing engineers to efficiently yet accurately reason about a system's expected performance before it is deployed in production. 
+So far, we have demonstrated that it is feasible to realize such performance interfaces for a wide range of low-level systems software and hardware, ranging from packet processing applications [<a href="{{ '/files/pix.pdf' | relative_url }}">PIX</a>], to low-level systems code such as OS system calls and cryptographic libraries [<a href="{{ '/files/cfar.pdf' | relative_url }}">CFAR</a>],
+and specialized hardware accelerators for tasks such as deep learning [<a href="{{ '/files/lpn.pdf' | relative_url }}">LTC</a>].
+Looking ahead, we are keen to realize such interfaces for large-scale distributed applications and enable efficient reasoning about end-to-end latency and throughput for such applications.
+</div>
 
-**[Automatically Reasoning About How Systems Code Uses the CPU Cache](/files/cfar.pdf)**  
-_Rishabh Iyer, Katerina Argyraki, George Candea._ <br>
-OSDI 2024. <br>
-<span style="color:red">**Also accepted to the Linux Plumbers Conference 2024**</span>.<br>
-[[slides]](files/cfar-slides.pptx) [[talk video]](https://www.youtube.com/watch?v=QpgOxTcvCrY)
+<div style="border-radius: 12px; padding: 0.75em; margin-top: 1.5em; margin-bottom: 0.5em; background: #F2FAFF; border: 1px solid black; font-size: 0.85em;">
+    <strong> <a href="{{ '/files/kflex.pdf' | relative_url }}"> Fast, Flexible, and Practical OS Kernel Extensions:</a></strong>
+The ability to safely extend OS kernel functionality is a longstanding goal in OS design, with the widespread use of the
+eBPF framework in datacenter infrastructure demonstrating the benefits of such extensibility. Unfortunately, existing solutions
+for kernel extensibility (including eBPF) are limited in terms of either the flexibility they offer users or the performance overheads incurred. <br><br>
 
-**[Performance Interfaces for Hardware Accelerators](/files/lpn.pdf)**  
-_Jiacheng Ma, Rishabh Iyer, Sahand Kashani, Mahyar Emami, Thomas Bourgeat, George Candea._<br>
-OSDI 2024.<br>
-[[slides]](files/lpn-slides.pptx) [[code]](https://github.com/dslab-epfl/lpn) [[talk video]](https://www.youtube.com/watch?v=S6BtXr-bFqk)
+The goal of this project is to enable engineers to write fast, flexible, and easily deployable kernel extensions. 
+As a first step, we built <a href="{{ '/files/kflex.pdf' | relative_url }}">KFlex</a>, a framework that significantly improves the flexibility of eBPF extensions in Linux while incurring negligible performance overheads. 
+KFlex is being upstreamed into the Linux kernel mainline and is in the late prototype stage at Meta. 
+Looking ahead, we are keen to further push the limits of kernel extensibility and seek to understand whether kernel extensions can be used to not only modify OS policy but also enable structural OS innovations. 
+</div>
 
-**[Achieving Microsecond-Scale Tail Latency Efficiently with Approximate Optimal Scheduling](/files/concord.pdf)**  
-_Rishabh Iyer, Musa Unal, Marios Kogias, George Candea._<br> 
-SOSP 2023.<br>
-[[slides]](files/concord-slides.pptx) [[code]](https://github.com/dslab-epfl/concord) [[talk video]](https://www.youtube.com/watch?v=VMSdUr-91_U)
+<div style="border-radius: 12px; padding: 0.75em; margin-top: 1.5em; margin-bottom: 0.5em; background: #F2FAFF; border: 1px solid black; font-size: 0.85em;">
+    <strong> Building Reliable and Provably Correct Systems:</strong>
+I am also interested in improving system reliability using formal and semi‑formal methods.  
+Given the growing criticality of networking infrastructure in modern society, my work in this area has focused on <a href="{{ '/files/hodor.pdf' | relative_url }}">software-defined wide‑area networks</a>, <a href="{{ '/files/vigor.pdf' | relative_url }}">in‑network packet‑processing applications</a>, and <a href="{{ '/files/sublayering.pdf' | relative_url }}">network stacks running on end hosts</a>.
 
-**[The Case for Performance Interfaces for Hardware Accelerators](/files/perf-interf-accel.pdf)**  
-_Rishabh Iyer, Jiacheng Ma, Katerina Argyraki, George Candea, Sylvia Ratnasamy._ <br>
-HotOS 2023. <br>
-[[slides]](files/accel-hotos-slides.pptx)
-
-**[Performance Interfaces for Network Functions](/files/pix.pdf)**  
-_Rishabh Iyer, Katerina Argyraki, George Candea._ <br> 
-NSDI 2022.  <br>
-[[slides]](files/pix_slides.pdf) [[talk video]](https://www.youtube.com/watch?v=iM3R2Gp0PWo) [[code]](https://github.com/dslab-epfl/pix)
-
-**[Bypassing the Load Balancer Without Regrets](/files/crab.pdf)**  
-_Marios Kogias, Rishabh Iyer, Edouard Bugnion._  <br>
-SOCC 2020. <br>
-[[talk video]](https://drive.google.com/file/d/1pG8Tbkn3obZhSSzWJGVsVcQ5kAziMg07/view?usp=sharing) [[code]](https://github.com/epfl-dcsl/crab)  
-
-**[Verifying Software Network Functions with No Verification Expertise](/files/vigor.pdf)**  
-_Arseniy Zaostrovnykh, Solal Pirelli, Rishabh Iyer, Matteo Rizzo, Luis Pedrosa, Katerina Argyraki, George Candea._  <br>
-SOSP 2019.  <br>
-[[slides]](https://vigor-nf.github.io/slides.pdf) [[talk video]](https://sosp19.rcs.uwaterloo.ca/videos/D2-S1-P4.mp4) [[code]](https://github.com/vigor-nf/vigor) [[website]](https://vigor-nf.github.io/)  
-
-**[Performance Contracts for Software Network Functions](/files/bolt.pdf)**  
-_Rishabh Iyer, Luis Pedrosa, Arseniy Zaostrovnykh, Solal Pirelli, Katerina Argyraki, George Candea._ <br> 
-NSDI 2019.  <br>
-[[slides]](files/bolt_slides.pdf) [[talk video]](https://www.youtube.com/watch?v=cV8pCGiTxgQ) [[code]](https://github.com/bolt-perf-contracts/bolt) [[website]](https://bolt-perf-contracts.github.io)
-
-**[Performance Modelling and Dynamic Scheduling for Heterogeneous-ISA Multi-Core Architectures](files/btp.pdf)**  
-_Nirmal Boran, Dinesh Yadav, Rishabh Iyer._  <br>
-VDAT 2019.  <br>
-<span style="color:red">**Awarded Best Paper**</span>. <br>
-[[slides]](files/vdat19_slides.pdf)
-
-**[Automated Synthesis of Adversarial Workloads for Network Functions](files/castan.pdf)**    
-_Luis Pedrosa, Rishabh Iyer, Arseniy Zaostrovnykh, Jonas Fietz, Katerina Argyraki._  <br>
-SIGCOMM 2018. <br>
-[[slides]](files/castan_slides.pdf) [[talk video]](https://www.youtube.com/watch?v=1BjeaNvmBwQ&t=1571s) [[code]](https://github.com/nal-epfl/castan) [[website]](https://pedrosa.2y.net/Projects/CASTAN)
+</div>

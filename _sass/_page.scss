@@ -55,9 +55,11 @@
     border-bottom: 1px solid $border-color;
   }
 
-  p, li, dl {
-    font-size: 0.875em;
-  }
+  /* body paragraphs and list items */
+  p, li, dl { font-size: 0.875em; }
+
+  /* paragraphs *inside* a list item inherit the same size */
+  li p { font-size: inherit; }
 
   /* paragraph indents */
   p {
