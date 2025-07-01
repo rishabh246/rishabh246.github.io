@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Assistant Professor in the [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) department at [UC Berkeley](https://berkeley.edu/), starting in July 2025. 
+I am an Assistant Professor in the [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) department at [UC Berkeley](https://berkeley.edu/). 
 Prior to joining Berkeley, I completed my PhD at EPFL in Switzerland and my bachelor's degree at IIT Bombay.
 
 I am a **computer systems** researcher, and my work focuses on developing techniques that
