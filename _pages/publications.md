@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **[Fast End-to-End Performance Simulation of Accelerated Hardware–Software Stacks](/files/nex.pdf)**   
+_Jiacheng Ma, Jonas Kauffman, Emilien Guandalino, Rishabh Iyer, Thomas Bourgeat, George Candea._ <br>
+SOSP 2025. <br>
+[[code]](https://github.com/dslab-epfl/NEX)
+
 - **[The Case for Validating Inputs in Software-Defined WANs](/files/hodor.pdf)**  
 _Alexander Krentsel, Rishabh Iyer, Isaac Keslassy, Sylvia Ratnasamy, Anees Shaikh, Rob Shakir._ <br>
 HotNets 2024. <br>
