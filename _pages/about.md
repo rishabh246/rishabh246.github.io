@@ -19,7 +19,7 @@ My work has received several awards, including the [ACM SIGOPS Dennis M. Ritchie
 
 Active Research Directions
 ----
-Below are a few of my ongoing research directions. A full list of my publications can be found [here](/publications).
+Below are a few research topics I am currently working on. A full list of my publications can be found [here](/publications).
 
 <div style="border-radius: 12px; padding: 0.75em; margin-top: 1.5em; margin-bottom: 0.5em; background: #F2FAFF; border: 1px solid black; font-size: 0.85em;">
     <strong> Systems Support for Learned Policies:</strong>
