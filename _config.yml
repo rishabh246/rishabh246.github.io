@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rishabh Iyer"
 title_separator          : "-"
 name                     : &name "Rishabh Iyer"
-description              : &description "Assistant Professor, <br> UC Berkeley"
+description              : &description "Assistant Professor <br> UC Berkeley"
 url                      : https://rishabh246.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rishabh246/rishabh246.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rishabh Iyer"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor, <br> UC Berkeley"
+  bio              : "Assistant Professor <br> UC Berkeley"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=o-Aoyn0AAAAJ&hl=en"
