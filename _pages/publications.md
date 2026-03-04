@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **[CrossCheck: Input Validation for WAN Control Systems](/files/crosscheck.pdf)** <br>
+_Alexander Krentsel, Rishabh Iyer, Isaac Keslassy, Bharath Modhipalli, Sylvia Ratnasamy, Anees Shaikh, Rob Shakir._ <br>
+NSDI 2026. <br>
+
 - **[Towards Structurally Extensible Host Network Stacks](/files/flexnet-hotnets.pdf)** <br>
 _Kumar Kartikeya Dwivedi, Rishabh Iyer, Sanidhya Kashyap._ <br>
 HotNets 2025. <br>
