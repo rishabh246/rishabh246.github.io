@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **[WriteGuards: Distributed Storage Support for Strongly Consistent Caches](/files/writeguards.pdf)** <br>
+_Ziming Mao, Atul Adya, Jonathan Ellithorpe, Rishabh Iyer, Matei Zaharia, Scott Shenker, Ion Stoica._ <br>
+OSDI 2026. <br>
+
 - **[CrossCheck: Input Validation for WAN Control Systems](/files/crosscheck.pdf)** <br>
 _Alexander Krentsel, Rishabh Iyer, Isaac Keslassy, Bharath Modhipalli, Sylvia Ratnasamy, Anees Shaikh, Rob Shakir._ <br>
 NSDI 2026. <br>
