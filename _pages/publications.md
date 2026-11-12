@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **[Understanding Contention in GPU Scale-Up Domains](/files/contention-hotnets26.pdf)** <br>
+_William X. Zheng, Zihan Zhao, Ziming Mao, Andrei Stan, Haiying Shen, Costin Raiciu, Jing Liu, Zhongjie Chen, Rishabh Iyer, Ion Stoica._ <br>
+HotNets 2026. <br>
+
+- **[Scale-up Networking: The Next Frontier for Networking Research](/files/scaleup-hotnets26.pdf)** <br>
+_Andrei Stan, Ştefan-Alexandru Pantucu, William X. Zheng, Zhongjie Chen, Ziming Mao, Rishabh Iyer, Ion Stoica, Costin Raiciu._ <br>
+HotNets 2026. <br>
+
 - **[WriteGuards: Distributed Storage Support for Strongly Consistent Caches](/files/writeguards.pdf)** <br>
 _Ziming Mao, Atul Adya, Jonathan Ellithorpe, Rishabh Iyer, Matei Zaharia, Scott Shenker, Ion Stoica._ <br>
 OSDI 2026. <br>

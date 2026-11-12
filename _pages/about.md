@@ -14,7 +14,7 @@ I am a **computer systems** researcher, and my work draws on insights from a bro
 My work has received several awards, including the [ACM SIGOPS Dennis M. Ritchie Award](https://www.sigops.org/awards/dmr/), the [Eurosys Roger Needham PhD Award](https://www.eurosys.org/awards/roger-needham-phd-award), and the [Dimitris N. Chorafas Award](https://www.weizmann.ac.il/feinberg/about/dimitris-n-chorafas-prize/about-foundation-and-prize). More details can be found in my [CV](files/rishabh-cv.pdf).
 
 <div style="border-radius: 12px; padding: 0.75em; margin-top: 0.5em; margin-bottom: 0.5em; background: #FFF5EA; border: 1px solid black; font-size: 0.875em;">
-  <strong>I am actively looking for talented and ambitious students to join my group!</strong> For students already at Berkeley, the best way to contact me is via <a href="mailto:rishabh.iyer@berkeley.edu">email</a>. For students seeking to join Berkeley, please refer to the <a href="https://eecs.berkeley.edu/academics/graduate/research-programs/admissions/">Berkeley EECS Graduate Admissions page</a> and mention my name on your application. I will be hiring several PhD students in the upcoming admissions cycle (2025-26).
+  <strong>I am always looking for talented and ambitious students to join my group. </strong> For students already at Berkeley, the best way to contact me is via <a href="mailto:rishabh.iyer@berkeley.edu">email</a>. For students seeking to join Berkeley, please refer to the <a href="https://eecs.berkeley.edu/academics/graduate/research-programs/admissions/">Berkeley EECS Graduate Admissions page</a> and mention my name on your application.
 </div>
 
 Active Research Directions
